@@ -1,3 +1,6 @@
+Ось фінальний варіант, повністю готовий для копіювання в `README.md`:
+
+```markdown
 # MuhamedTrash
 
 ## Shabka
@@ -31,15 +34,15 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 ## Flags
 
-| 🇨🇦 Canada | 🤝 Brotherhood | 🇷🇺 Russia | 🇺🇦 Ukraine |
-|-----------|----------------|-----------|-------------|
-| ![Canada](Flags/Canada_flag.png) | ![Brotherhood](Flags/Brotherhood_flag.png) | ![Russia](Flags/Russia_flag.png) | ![Ukraine](Flags/Ukraine_flag.png) |
+| 🇨🇦 Canada | 🇬🇧 United Kingdom | 🇷🇺 Russia | 🇺🇦 Ukraine |
+|-----------|-------------------|-----------|-------------|
+| ![Canada](Flags/Canada_flag.png) | ![UK](Flags/United_Kingdom_flag.png) | ![Russia](Flags/Russia_flag.png) | ![Ukraine](Flags/Ukraine_flag.png) |
 
 ### Прямі посилання
 
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Canada_flag.png
-https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Brotherhood_flag.png
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/United_Kingdom_flag.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Russia_flag.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png
 ```
