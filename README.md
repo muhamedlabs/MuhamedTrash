@@ -1,6 +1,3 @@
-Ось фінальний варіант, повністю готовий для копіювання в `README.md`:
-
-```markdown
 # MuhamedTrash
 
 ## Shabka
