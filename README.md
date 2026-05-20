@@ -34,13 +34,13 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 | United Kingdom | Russia | Ukraine |
 |----------------|--------|---------|
-| ![UK](Flags/United_Kingdom_flag.png) | ![Russia](Flags/Russia_flag.png) | ![Ukraine](Flags/Ukraine_flag.png) |
+| ![UK](Flags/Unit_King_flag.png) | ![Russia](Flags/Russia_flag.png) | ![Ukraine](Flags/Ukraine_flag.png) |
 
 ### Прямі посилання:
 
 #### English
 ```bash
-https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/United_Kingdom_flag.png
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Unit_King_flag.png
 ```
 
 #### Русский
