@@ -1,27 +1,28 @@
-# MuhamedTrash
+<h1 align="center"> MuhamedTrash </h1>
 
-## Shabka
 
-| 🇬🇧 English | 🇷🇺 Русский | 🇺🇦 Українська |
-|------------|------------|----------------|
+<h1 align="center"> Shabka </h1>
+
+| English | Русский | Українська |
+|---------|---------|------------|
 | ![Poster_EN](Shabka/Poster_EN.png) | ![Poster_RU](Shabka/Poster_RU.png) | ![Poster_UA](Shabka/Poster_UA.png) |
 | ![Postmin_EN](Shabka/Postmin_EN.png) | ![Postmin_RU](Shabka/Postmin_RU.png) | ![Postmin_UA](Shabka/Postmin_UA.png) |
 
-### Прямі посилання
+### Прямі посилання:
 
-#### 🇬🇧 English
+#### English
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Poster_EN.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_EN.png
 ```
 
-#### 🇷🇺 Русский
+#### Русский
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Poster_RU.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_RU.png
 ```
 
-#### 🇺🇦 Українська
+#### Українська
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Poster_UA.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_UA.png
@@ -29,17 +30,33 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 ---
 
-## Flags
+<h1 align="center"> Flags </h1>
 
-| 🇨🇦 Canada | 🇬🇧 United Kingdom | 🇷🇺 Russia | 🇺🇦 Ukraine |
-|-----------|-------------------|-----------|-------------|
-| ![Canada](Flags/Canada_flag.png) | ![UK](Flags/United_Kingdom_flag.png) | ![Russia](Flags/Russia_flag.png) | ![Ukraine](Flags/Ukraine_flag.png) |
+| United Kingdom | Russia | Ukraine |
+|----------------|--------|---------|
+| ![UK](Flags/United_Kingdom_flag.png) | ![Russia](Flags/Russia_flag.png) | ![Ukraine](Flags/Ukraine_flag.png) |
 
-### Прямі посилання
+### Прямі посилання:
 
+#### English
 ```bash
-https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Canada_flag.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/United_Kingdom_flag.png
+```
+
+#### Русский
+```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Russia_flag.png
+```
+
+#### Українська
+```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png
 ```
+
+---
+
+<h1 align="center"> Icons </h1>
+
+---
+
+<h1 align="center"> Avatars </h1>
