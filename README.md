@@ -47,9 +47,9 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Russia</b><br><img src="Flags/Russia_flag.png" width="80"></td>
-      <td align="center"><b>Ukraine</b><br><img src="Flags/Ukraine_flag.png" width="80"></td>
-      <td align="center"><b>United Kingdom</b><br><img src="Flags/Unit_King_flag.png" width="80"></td>
+      <td align="center"><b>Russia</b><br><img src="Flags/Russia_flag.png" width="180"></td>
+      <td align="center"><b>Ukraine</b><br><img src="Flags/Ukraine_flag.png" width="180"></td>
+      <td align="center"><b>United Kingdom</b><br><img src="Flags/Unit_King_flag.png" width="180"></td>
     </tr>
   </table>
 </div>
@@ -59,12 +59,17 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 <br>
 
+**Русский**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Russia_flag.png
 ```
+
+**Українська**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png
 ```
+
+**United Kingdom<**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Unit_King_flag.png
 ```
@@ -85,13 +90,69 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
   <img src="Icons/facebook.png" width="50" style="margin: 8px;">
   <img src="Icons/github.png" width="50" style="margin: 8px;">
   <img src="Icons/instagram.png" width="50" style="margin: 8px;">
-  <br>
   <img src="Icons/social_x.png" width="50" style="margin: 8px;">
   <img src="Icons/telegram.png" width="50" style="margin: 8px;">
   <img src="Icons/tiktok.png" width="50" style="margin: 8px;">
   <img src="Icons/web.png" width="50" style="margin: 8px;">
   <img src="Icons/youtube.png" width="50" style="margin: 8px;">
 </div>
+
+<details>
+<summary><b>Прямі посилання</b></summary>
+
+<br>
+
+**Donat_1**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/donat_1.png
+```
+
+**Donat_2**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/donat_2.png
+```
+
+**Facebook**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/facebook.png
+```
+
+**Github**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/github.png
+```
+
+**Instagram**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/instagram.png
+```
+
+**Social_x**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/social_x.png
+```
+
+**Telegram**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/telegram.png
+```
+
+**Tiktok**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/tiktok.png
+```
+
+**Web**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/web.png
+```
+
+**Youtube**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons/youtube.png
+```
+
+</details>
 
 ---
 
