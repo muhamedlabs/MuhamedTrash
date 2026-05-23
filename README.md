@@ -1,10 +1,8 @@
-# MuhamedTrash <a href="#"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="#"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="#"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
+# Muhamed Trash <a href="#"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="#"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="#"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
 Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda. Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.</i>
 
 ![alt text](Cache/Sticks.png)
-
----
 
 ## Shabka
 
@@ -49,9 +47,9 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Russia</b><br><img src="Flags/Russia_flag.png" width="180"></td>
-      <td align="center"><b>Ukraine</b><br><img src="Flags/Ukraine_flag.png" width="180"></td>
-      <td align="center"><b>United Kingdom</b><br><img src="Flags/Unit_King_flag.png" width="180"></td>
+      <td align="center"><b>Russia</b><br><img src="Flags/Russia_flag.png" width="145"></td>
+      <td align="center"><b>Ukraine</b><br><img src="Flags/Ukraine_flag.png" width="145"></td>
+      <td align="center"><b>United Kingdom</b><br><img src="Flags/Unit_King_flag.png" width="145"></td>
     </tr>
   </table>
 </div>
@@ -71,7 +69,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png
 ```
 
-**United Kingdom<**
+**United Kingdom**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Unit_King_flag.png
 ```
@@ -96,6 +94,8 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
       <td align="center"><b>Instagram</b><br><img src="Icons/instagram.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
       <td align="center"><b>Social_x</b><br><img src="Icons/social_x.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
       <td align="center"><b>Telegram</b><br><img src="Icons/telegram.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+    </tr>
+    <tr>
       <td align="center"><b>Tiktok</b><br><img src="Icons/tiktok.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
       <td align="center"><b>Web</b><br><img src="Icons/web.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
       <td align="center"><b>Youtube</b><br><img src="Icons/youtube.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
@@ -164,13 +164,19 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 
 ## Avatars
 
-<div align="center">
-  <i>🚧 Soon... / Скоро... / Незабаром... 🔥</i>
-</div>
+Аватарки Muhameda — це обличчя проєкту та його настрій. Вони поєднують у собі стиль, атмосферу і характер цифрового світу Muhamed Labs, допомагаючи зробити кожен профіль, канал чи спільноту більш впізнаваними та унікальними.
+
+
 
 ---
 
+## Зв'язок та підтримка
+За всіма питаннями звертайтесь:
+- Telegram-канал: https://t.me/muhamedlabs
+- Email: partners@muhamedlabs.pro
+
 <div align="center">
-  <br>
-  <b>© Muhamed Labs</b> — цифрова творчість у кожному пікселі
+  <sub>© 2023-2028 Muhamed IT</sub>
 </div>
+
+---
