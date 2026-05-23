@@ -95,6 +95,9 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
       <td align="center"><b>Social_x</b><br><img src="Icons/social_x.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
       <td align="center"><b>Telegram</b><br><img src="Icons/telegram.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
     </tr>
+  </table>
+<div align="center">
+  <table>
     <tr>
       <td align="center"><b>Tiktok</b><br><img src="Icons/tiktok.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
       <td align="center"><b>Web</b><br><img src="Icons/web.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
@@ -174,6 +177,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 За всіма питаннями звертайтесь:
 - Telegram-канал: https://t.me/muhamedlabs
 - Email: partners@muhamedlabs.pro
+- Discord: https://discord.com/users/768782555171782667
 
 <div align="center">
   <sub>© 2023-2028 Muhamed IT</sub>
