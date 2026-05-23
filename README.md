@@ -1,12 +1,4 @@
-<h1 align="center">MuhamedTrash</h1>
-
-<div align="center">
-  <a href="#"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a>
-  &nbsp;&nbsp;
-  <a href="#"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
-</div>
+# MuhamedTrash <a href="#"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="#"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="#"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
 Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda. Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.</i>
 
