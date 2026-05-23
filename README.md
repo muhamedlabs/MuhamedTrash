@@ -1,29 +1,20 @@
-<h1 align="center">🧠 MuhamedTrash</h1>
+<h1 align="center">MuhamedTrash</h1>
 
 <div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Russia_flag.png" alt="RU" width="40" height="40" style="border-radius: 12px;"></a>
+  <a href="#"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png" alt="UA" width="40" height="40" style="border-radius: 12px;"></a>
+  <a href="#"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a>
   &nbsp;&nbsp;
-  <a href="#"><img src="https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Unit_King_flag.png" alt="UK" width="40" height="40" style="border-radius: 12px;"></a>
+  <a href="#"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 </div>
 
-<br>
-
-<div align="center">
-  <i>Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda.<br>Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.</i>
-</div>
+Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda. Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.</i>
 
 ---
 
 <h2 align="center">📁 Shabka</h2>
 
-<div align="center">
-  <b>Шапка Muhameda</b> — це не просто банер чи картинка. Це атмосфера, стиль і перше враження про проєкт.<br>
-  Неонові кольори, кіберпанк-настрій, мінімалізм і енергія цифрового світу.
-</div>
-
-<br>
+Шапка Muhameda — це не просто банер чи картинка. Це атмосфера, стиль і перше враження про проєкт. Неонові кольори, кіберпанк-настрій, мінімалізм і енергія цифрового світу.
 
 | Русский | Українська | English |
 |:-----------:|:-------------:|:----------:|
@@ -59,12 +50,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 <h2 align="center">🏁 Flags</h2>
 
-<div align="center">
-  <b>Флаги Muhameda</b> — це маленькі елементи стилю, які додають проєкту характеру та атмосфери.<br>
-  Вони допомагають оформити контент і зробити простір Muhamed Labs більш впізнаваним.
-</div>
-
-<br>
+Флаги Muhameda — це маленькі елементи стилю, які додають проєкту характеру та атмосфери. Вони допомагають оформити контент і зробити простір Muhamed Labs більш впізнаваним.
 
 <div align="center">
   <table>
