@@ -4,7 +4,7 @@
 
 ---
 
-<h2 align="center">📁 Shabka</h2>
+## Shabka
 
 Шапка Muhameda — це не просто банер чи картинка. Це атмосфера, стиль і перше враження про проєкт. Неонові кольори, кіберпанк-настрій, мінімалізм і енергія цифрового світу.
 
@@ -14,7 +14,7 @@
 | ![Postmin_RU](Shabka/Postmin_RU.png) | ![Postmin_UA](Shabka/Postmin_UA.png) | ![Postmin_EN](Shabka/Postmin_EN.png) |
 
 <details>
-<summary><b>🔗 Прямі посилання</b></summary>
+<summary><b>Прямі посилання</b></summary>
 
 <br>
 
@@ -40,7 +40,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 ---
 
-<h2 align="center">🏁 Flags</h2>
+## Flags
 
 Флаги Muhameda — це маленькі елементи стилю, які додають проєкту характеру та атмосфери. Вони допомагають оформити контент і зробити простір Muhamed Labs більш впізнаваним.
 
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 </div>
 
 <details>
-<summary><b>🔗 Прямі посилання</b></summary>
+<summary><b>Прямі посилання</b></summary>
 
 <br>
 
@@ -73,12 +73,9 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 
 ---
 
-<h2 align="center">🎨 Icons</h2>
+## Icons
 
-<div align="center">
-  <b>Іконки Muhameda</b> — це деталі, які формують стиль усього проєкту.<br>
-  Вони додають впізнаваності та допомагають зробити контент більш живим і сучасним.
-</div>
+Іконки Muhameda — це деталі, які формують стиль усього проєкту. Вони додають впізнаваності та допомагають зробити контент більш живим і сучасним.
 
 <br>
 
@@ -98,7 +95,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 
 ---
 
-<h2 align="center">👤 Avatars</h2>
+## Avatars
 
 <div align="center">
   <i>🚧 Soon... / Скоро... / Незабаром... 🔥</i>
