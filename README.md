@@ -85,20 +85,26 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 <br>
 
 <div align="center">
-  <img src="Icons/donat_1.png" width="50" style="margin: 8px;">
-  <img src="Icons/donat_2.png" width="50" style="margin: 8px;">
-  <img src="Icons/facebook.png" width="50" style="margin: 8px;">
-  <img src="Icons/github.png" width="50" style="margin: 8px;">
-  <img src="Icons/instagram.png" width="50" style="margin: 8px;">
-  <img src="Icons/social_x.png" width="50" style="margin: 8px;">
-  <img src="Icons/telegram.png" width="50" style="margin: 8px;">
-  <img src="Icons/tiktok.png" width="50" style="margin: 8px;">
-  <img src="Icons/web.png" width="50" style="margin: 8px;">
-  <img src="Icons/youtube.png" width="50" style="margin: 8px;">
+  <table>
+    <tr>
+      <td align="center"><b>Donat_1</b><br><img src="Icons/donat_1.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Donat_2</b><br><img src="Icons/donat_2.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Facebook</b><br><img src="Icons/facebook.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Github</b><br><img src="Icons/github.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Instagram</b><br><img src="Icons/instagram.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+    </tr>
+    <tr>
+      <td align="center"><b>Social_x</b><br><img src="Icons/social_x.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Telegram</b><br><img src="Icons/telegram.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Tiktok</b><br><img src="Icons/tiktok.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Web</b><br><img src="Icons/web.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+      <td align="center"><b>Youtube</b><br><img src="Icons/youtube.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
+    </tr>
+  </table>
 </div>
 
 <details>
-<summary><b>Прямі посилання</b></summary>
+<summary><b>🔗 Прямі посилання</b></summary>
 
 <br>
 
