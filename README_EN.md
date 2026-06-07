@@ -1,30 +1,30 @@
 # Muhamed Trash <a href="[text](README.md)"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_UA.md)"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_EN.md)"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
-Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda. Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.
+Here are collected small but atmospheric post templates that will help you beautifully arrange thoughts, ideas, and content in Muhamed's style. Headers, icons, avatars, flags, and other elements for designing this digital creation.
 
 ![alt text](Cache/Sticks.png)
 
 ## Shabka
 
-Шапка Muhameda — это не просто баннер или картинка. Это атмосфера, стиль и первое впечатление о проекте. Неоновые цвета, киберпанк-настроение, минимализм и энергия цифрового мира.
+Muhamed's header is not just a banner or picture. It's an atmosphere, style, and first impression of the project. Neon colors, cyberpunk mood, minimalism, and the energy of the digital world.
 
-| Русский | Українська | English |
+| Russian | Ukrainian | English |
 |:-----------:|:-------------:|:----------:|
 | ![Poster_RU](Shabka/Poster_RU.png) | ![Poster_UA](Shabka/Poster_UA.png) | ![Poster_EN](Shabka/Poster_EN.png) |
 | ![Postmin_RU](Shabka/Postmin_RU.png) | ![Postmin_UA](Shabka/Postmin_UA.png) | ![Postmin_EN](Shabka/Postmin_EN.png) |
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Direct links</b></summary>
 
 <br>
 
-**Русский**
+**Russian**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Poster_RU.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_RU.png
 ```
 
-**Українська**
+**Ukrainian**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Poster_UA.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_UA.png
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 ## Flags
 
-Флаги Muhameda — это маленькие элементы стиля, которые добавляют проекту характера и атмосферы. Они помогают оформить контент и сделать пространство Muhamed Labs более узнаваемым.
+Muhamed's flags are small style elements that add character and atmosphere to the project. They help design content and make the Muhamed Labs space more recognizable.
 
 <div align="center">
   <table>
@@ -55,16 +55,16 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 </div>
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Direct links</b></summary>
 
 <br>
 
-**Русский**
+**Russian**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Russia_flag.png
 ```
 
-**Українська**
+**Ukrainian**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png
 ```
@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 
 ## Icons
 
-Иконки Muhameda — это детали, которые формируют стиль всего проекта. Они добавляют узнаваемости и помогают сделать контент более живым и современным.
+Muhamed's icons are details that shape the style of the entire project. They add recognition and help make content more lively and modern.
 
 <br>
 
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 </div>
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Direct links</b></summary>
 
 <br>
 
@@ -169,21 +169,21 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 
 ## Avatars
 
-Аватарки Muhameda — это лицо проекта и его настроение. Они сочетают в себе стиль, атмосферу и характер цифрового мира Muhamed Labs, помогая сделать каждый профиль, канал или сообщество более узнаваемыми и уникальными.
+Muhamed's avatars are the face of the project and its mood. They combine style, atmosphere, and character of the Muhamed Labs digital world, helping to make every profile, channel, or community more recognizable and unique.
 
 <div align="center">
-  </table>
+  <table>
     <tr>
       <td align="center"><b>Muhamed_Ads</b><br><img src="Avatars/Muhamed_Ads.png" width="125"></td>
       <td align="center"><b>Web</b><br><img src="Avatars/Web.png" width="125"></td>
       <td align="center"><b>Muhamed_IT</b><br><img src="Avatars/Muhamed_IT.png" width="125"></td>
-      <td align="center"><b>Чат</b><br><img src="Avatars/Чат.png" width="125"></td>
+      <td align="center"><b>Chat</b><br><img src="Avatars/Чат.png" width="125"></td>
     </tr>
   </table>
 </div>
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Direct links</b></summary>
 
 <br>
 
@@ -202,7 +202,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Muhamed_IT.png
 ```
 
-**Чат**
+**Chat**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Чат.png
 ```
@@ -211,11 +211,11 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 
 ---
 
-## Связь и поддержка
+## Contact & Support
 
-Мы всегда открыты к общению, новым идеям и сотрудничеству. По всем вопросам обращайтесь:
+We are always open to communication, new ideas, and collaboration. For any questions, please contact us:
 
-- Telegram-канал: https://t.me/muhamedlabs
+- Telegram channel: https://t.me/muhamedlabs
 - Email: partners@muhamedlabs.pro
 - Discord: https://discord.com/users/768782555171782667
 

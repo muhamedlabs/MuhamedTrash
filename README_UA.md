@@ -1,12 +1,12 @@
 # Muhamed Trash <a href="[text](README.md)"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_UA.md)"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_EN.md)"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
-Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda. Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.
+Тут зібрані невеликі, але атмосферні шаблони постів, які допоможуть гарно оформити думки, ідеї та контент у стилі Muhameda. Шапки, іконки, аватарки, прапорці та інші елементи для оформлення цього цифрового творіння.
 
 ![alt text](Cache/Sticks.png)
 
 ## Shabka
 
-Шапка Muhameda — это не просто баннер или картинка. Это атмосфера, стиль и первое впечатление о проекте. Неоновые цвета, киберпанк-настроение, минимализм и энергия цифрового мира.
+Шапка Muhameda — це не просто банер чи картинка. Це атмосфера, стиль і перше враження про проєкт. Неонові кольори, кіберпанк-настрій, мінімалізм і енергія цифрового світу.
 
 | Русский | Українська | English |
 |:-----------:|:-------------:|:----------:|
@@ -14,7 +14,7 @@
 | ![Postmin_RU](Shabka/Postmin_RU.png) | ![Postmin_UA](Shabka/Postmin_UA.png) | ![Postmin_EN](Shabka/Postmin_EN.png) |
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Прямі посилання</b></summary>
 
 <br>
 
@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 
 ## Flags
 
-Флаги Muhameda — это маленькие элементы стиля, которые добавляют проекту характера и атмосферы. Они помогают оформить контент и сделать пространство Muhamed Labs более узнаваемым.
+Прапорці Muhameda — це маленькі елементи стилю, які додають проєкту характеру та атмосфери. Вони допомагають оформити контент і зробити простір Muhamed Labs більш впізнаваним.
 
 <div align="center">
   <table>
@@ -55,7 +55,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 </div>
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Прямі посилання</b></summary>
 
 <br>
 
@@ -80,7 +80,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 
 ## Icons
 
-Иконки Muhameda — это детали, которые формируют стиль всего проекта. Они добавляют узнаваемости и помогают сделать контент более живым и современным.
+Іконки Muhameda — це деталі, які формують стиль усього проєкту. Вони додають впізнаваності та допомагають зробити контент більш живим і сучасним.
 
 <br>
 
@@ -109,7 +109,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
 </div>
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Прямі посилання</b></summary>
 
 <br>
 
@@ -169,10 +169,10 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 
 ## Avatars
 
-Аватарки Muhameda — это лицо проекта и его настроение. Они сочетают в себе стиль, атмосферу и характер цифрового мира Muhamed Labs, помогая сделать каждый профиль, канал или сообщество более узнаваемыми и уникальными.
+Аватарки Muhameda — це обличчя проєкту та його настрій. Вони поєднують у собі стиль, атмосферу і характер цифрового світу Muhamed Labs, допомагаючи зробити кожен профіль, канал чи спільноту більш впізнаваними та унікальними.
 
 <div align="center">
-  </table>
+  <tr>
     <tr>
       <td align="center"><b>Muhamed_Ads</b><br><img src="Avatars/Muhamed_Ads.png" width="125"></td>
       <td align="center"><b>Web</b><br><img src="Avatars/Web.png" width="125"></td>
@@ -183,7 +183,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 </div>
 
 <details>
-<summary><b>Прямые ссылки</b></summary>
+<summary><b>Прямі посилання</b></summary>
 
 <br>
 
@@ -211,9 +211,9 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 
 ---
 
-## Связь и поддержка
+## Зв'язок та підтримка
 
-Мы всегда открыты к общению, новым идеям и сотрудничеству. По всем вопросам обращайтесь:
+Ми завжди відкриті до спілкування, нових ідей та співпраці. З усіх питань звертайтеся:
 
 - Telegram-канал: https://t.me/muhamedlabs
 - Email: partners@muhamedlabs.pro
