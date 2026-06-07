@@ -172,7 +172,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 Аватарки Muhameda — це обличчя проєкту та його настрій. Вони поєднують у собі стиль, атмосферу і характер цифрового світу Muhamed Labs, допомагаючи зробити кожен профіль, канал чи спільноту більш впізнаваними та унікальними.
 
 <div align="center">
-  <tr>
+  <table>
     <tr>
       <td align="center"><b>Muhamed_Ads</b><br><img src="Avatars/Muhamed_Ads.png" width="125"></td>
       <td align="center"><b>Web</b><br><img src="Avatars/Web.png" width="125"></td>
