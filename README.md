@@ -1,4 +1,4 @@
-# Muhamed Trash <a href="[text](README.md)"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_UA.md)"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_EN.md)"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
+# Muhamed Trash <a href="README.md"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
 Здесь собраны небольшие, но атмосферные шаблоны постов, которые помогут красиво оформить мысли, идеи и контент в стиле Muhameda. Шапки, иконки, аватарки, флажки и другие элементы для оформления этого цифрового творения.
 
@@ -24,7 +24,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_RU.png
 ```
 
-**Українська**
+**Украинська**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Poster_UA.png
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabka/Postmin_UA.png
@@ -64,7 +64,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Shabk
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Russia_flag.png
 ```
 
-**Українська**
+**Украинська**
 ```bash
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags/Ukraine_flag.png
 ```

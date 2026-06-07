@@ -1,4 +1,4 @@
-# Muhamed Trash <a href="[text](README.md)"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_UA.md)"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="[text](README_EN.md)"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
+# Muhamed Trash <a href="README.md"><img src="Flags/Russia_flag.png" alt="RU" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_UA.md"><img src="Flags/Ukraine_flag.png" alt="UA" width="28" height="28" style="border-radius: 12px;"></a> <a href="README_EN.md"><img src="Flags/Unit_King_flag.png" alt="UK" width="28" height="28" style="border-radius: 12px;"></a>
 
 Here are collected small but atmospheric post templates that will help you beautifully arrange thoughts, ideas, and content in Muhamed's style. Headers, icons, avatars, flags, and other elements for designing this digital creation.
 
