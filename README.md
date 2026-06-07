@@ -174,9 +174,9 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 <div align="center">
   <table>
     <tr>
-      <td align="center"><b>Muhamed_Ads</b><br><img src="Flags/Russia_flag.png" width="125"></td>
-      <td align="center"><b>Web</b><br><img src="Flags/Unit_King_flag.png" width="125"></td>
-      <td align="center"><b>Muhamed_IT</b><br><img src="Flags/Ukraine_flag.png" width="125"></td>
+      <td align="center"><b>Muhamed_Ads</b><br><img src="Avatars/Muhamed_Ads.png" width="125"></td>
+      <td align="center"><b>Web</b><br><img src="Avatars/Web.png" width="125"></td>
+      <td align="center"><b>Muhamed_IT</b><br><img src="Avatars/Muhamed_IT.png" width="125"></td>
     </tr>
   </table>
 </div>
@@ -212,7 +212,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 - Discord: https://discord.com/users/768782555171782667
 
 <div align="center">
-  <sub>© 2023-2028 Muhamed IT</sub>
+  <sub><img src="Avatars/Muhamed_IT.png" width="125">2023-2028 Muhamed IT</sub>
 </div>
 
 ---
