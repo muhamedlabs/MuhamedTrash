@@ -177,6 +177,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
       <td align="center"><b>Muhamed_Ads</b><br><img src="Avatars/Muhamed_Ads.png" width="125"></td>
       <td align="center"><b>Web</b><br><img src="Avatars/Web.png" width="125"></td>
       <td align="center"><b>Muhamed_IT</b><br><img src="Avatars/Muhamed_IT.png" width="125"></td>
+      <td align="center"><b>Muhamed_IT</b><br><img src="Avatars/Чат.png" width="125"></td>
     </tr>
   </table>
 </div>
@@ -201,6 +202,11 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Muhamed_IT.png
 ```
 
+**Чат**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Чат.png
+```
+
 </details>
 
 ---
@@ -212,7 +218,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 - Discord: https://discord.com/users/768782555171782667
 
 <div align="center">
-  <sub><img src="Avatars/Muhamed_IT.png" width="125">2023-2028 Muhamed IT</sub>
+  <sub><img src="Avatars/Muhamed_IT.png" width="15">   2023-2028 Muhamed IT</sub>
 </div>
 
 ---
