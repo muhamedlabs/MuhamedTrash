@@ -96,6 +96,8 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Flags
       <td align="center"><b>Telegram</b><br><img src="Icons/telegram.png" width="60" style="border: 2px solid #333; border-radius: 12px; padding: 8px;"></td>
     </tr>
   </table>
+</div>
+
 <div align="center">
   <table>
     <tr>
@@ -169,7 +171,37 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Icons
 
 Аватарки Muhameda — це обличчя проєкту та його настрій. Вони поєднують у собі стиль, атмосферу і характер цифрового світу Muhamed Labs, допомагаючи зробити кожен профіль, канал чи спільноту більш впізнаваними та унікальними.
 
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>Muhamed_Ads</b><br><img src="Flags/Russia_flag.png" width="125"></td>
+      <td align="center"><b>Web</b><br><img src="Flags/Unit_King_flag.png" width="125"></td>
+      <td align="center"><b>Muhamed_IT</b><br><img src="Flags/Ukraine_flag.png" width="125"></td>
+    </tr>
+  </table>
+</div>
 
+<details>
+<summary><b>Прямі посилання</b></summary>
+
+<br>
+
+**Muhamed Ads**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Muhamed_Ads.png
+```
+
+**Web**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Web.png
+```
+
+**Muhamed IT**
+```bash
+https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avatars/Muhamed_IT.png
+```
+
+</details>
 
 ---
 
