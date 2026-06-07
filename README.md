@@ -222,7 +222,7 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 <br>
 
 <div align="center">
-  <sub><img src="Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> © 2023-2028 Muhamed IT</sub>
+  <sub><img src="Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> 2023-2028 Muhamed IT <img src="Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> </sub>
 </div>
 
 ---
