@@ -212,13 +212,17 @@ https://raw.githubusercontent.com/muhamedlabs/MuhamedTrash/refs/heads/main/Avata
 ---
 
 ## Зв'язок та підтримка
-За всіма питаннями звертайтесь:
+
+Ми завжди відкриті до спілкування, нових ідей та співпраці. З усіх питань звертайтеся:
+
 - Telegram-канал: https://t.me/muhamedlabs
 - Email: partners@muhamedlabs.pro
 - Discord: https://discord.com/users/768782555171782667
 
+<br>
+
 <div align="center">
-  <sub><img src="Avatars/Muhamed_IT.png" width="15">   2023-2028 Muhamed IT</sub>
+  <sub><img src="Avatars/Muhamed_IT.png" width="20" style="vertical-align: middle;"> © 2023-2028 Muhamed IT</sub>
 </div>
 
 ---
